@@ -71,6 +71,13 @@ public class PlayingWindow extends javax.swing.JFrame {
         jLabel26 = new javax.swing.JLabel();
         jLabel27 = new javax.swing.JLabel();
         jLabel28 = new javax.swing.JLabel();
+        jLabel29 = new javax.swing.JLabel();
+        jLabel30 = new javax.swing.JLabel();
+        jLabel31 = new javax.swing.JLabel();
+        jLabel32 = new javax.swing.JLabel();
+        jLabel33 = new javax.swing.JLabel();
+        jLabel34 = new javax.swing.JLabel();
+        jLabel35 = new javax.swing.JLabel();
         jLabelCoefficient6 = new javax.swing.JLabel();
         jLabelCoefficient7 = new javax.swing.JLabel();
         jLabelCoefficient8 = new javax.swing.JLabel();
@@ -94,19 +101,12 @@ public class PlayingWindow extends javax.swing.JFrame {
         jLabelCoefficient26 = new javax.swing.JLabel();
         jLabelCoefficient27 = new javax.swing.JLabel();
         jLabelCoefficient28 = new javax.swing.JLabel();
-        jLabel29 = new javax.swing.JLabel();
         jLabelCoefficient29 = new javax.swing.JLabel();
-        jLabel30 = new javax.swing.JLabel();
         jLabelCoefficient30 = new javax.swing.JLabel();
-        jLabel31 = new javax.swing.JLabel();
         jLabelCoefficient31 = new javax.swing.JLabel();
-        jLabel32 = new javax.swing.JLabel();
         jLabelCoefficient32 = new javax.swing.JLabel();
-        jLabel33 = new javax.swing.JLabel();
         jLabelCoefficient33 = new javax.swing.JLabel();
-        jLabel34 = new javax.swing.JLabel();
         jLabelCoefficient34 = new javax.swing.JLabel();
-        jLabel35 = new javax.swing.JLabel();
         jLabelCoefficient35 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
@@ -203,137 +203,137 @@ public class PlayingWindow extends javax.swing.JFrame {
 
         jLabel28.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resursi/icons/circle.png"))); // NOI18N
 
-        jLabelCoefficient6.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient6.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient6.setText("10 000");
-
-        jLabelCoefficient7.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient7.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient7.setText("7 500");
-
-        jLabelCoefficient8.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient8.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient8.setText("5 000");
-
-        jLabelCoefficient9.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient9.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient9.setText("2 500");
-
-        jLabelCoefficient10.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient10.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient10.setText("1 000");
-
-        jLabelCoefficient11.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient11.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient11.setText("500");
-
-        jLabelCoefficient12.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient12.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient12.setText("300");
-
-        jLabelCoefficient13.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient13.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient13.setText("200");
-
-        jLabelCoefficient14.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient14.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient14.setText("150");
-
-        jLabelCoefficient15.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient15.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient15.setText("100");
-
-        jLabelCoefficient16.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient16.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient16.setText("90");
-
-        jLabelCoefficient17.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient17.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient17.setText("80");
-
-        jLabelCoefficient18.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient18.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient18.setText("70");
-
-        jLabelCoefficient19.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient19.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient19.setText("60");
-
-        jLabelCoefficient20.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient20.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient20.setText("50");
-
-        jLabelCoefficient21.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient21.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient21.setText("40");
-
-        jLabelCoefficient22.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient22.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient22.setText("30");
-
-        jLabelCoefficient23.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient23.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient23.setText("25");
-
-        jLabelCoefficient24.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient24.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient24.setText("20");
-
-        jLabelCoefficient25.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient25.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient25.setText("15");
-
-        jLabelCoefficient26.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient26.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient26.setText("10");
-
-        jLabelCoefficient27.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient27.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient27.setText("9");
-
-        jLabelCoefficient28.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient28.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient28.setText("8");
-
         jLabel29.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resursi/icons/circle.png"))); // NOI18N
-
-        jLabelCoefficient29.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient29.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient29.setText("7");
 
         jLabel30.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resursi/icons/circle.png"))); // NOI18N
 
-        jLabelCoefficient30.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient30.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient30.setText("6");
-
         jLabel31.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resursi/icons/circle.png"))); // NOI18N
-
-        jLabelCoefficient31.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient31.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient31.setText("5");
 
         jLabel32.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resursi/icons/circle.png"))); // NOI18N
 
-        jLabelCoefficient32.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient32.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient32.setText("4");
-
         jLabel33.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resursi/icons/circle.png"))); // NOI18N
-
-        jLabelCoefficient33.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
-        jLabelCoefficient33.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelCoefficient33.setText("3");
 
         jLabel34.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resursi/icons/circle.png"))); // NOI18N
 
-        jLabelCoefficient34.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
+        jLabel35.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resursi/icons/circle.png"))); // NOI18N
+
+        jLabelCoefficient6.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient6.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient6.setText("10 000");
+
+        jLabelCoefficient7.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient7.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient7.setText("7 500");
+
+        jLabelCoefficient8.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient8.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient8.setText("5 000");
+
+        jLabelCoefficient9.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient9.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient9.setText("2 500");
+
+        jLabelCoefficient10.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient10.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient10.setText("1 000");
+
+        jLabelCoefficient11.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient11.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient11.setText("500");
+
+        jLabelCoefficient12.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient12.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient12.setText("300");
+
+        jLabelCoefficient13.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient13.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient13.setText("200");
+
+        jLabelCoefficient14.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient14.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient14.setText("150");
+
+        jLabelCoefficient15.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient15.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient15.setText("100");
+
+        jLabelCoefficient16.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient16.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient16.setText("90");
+
+        jLabelCoefficient17.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient17.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient17.setText("80");
+
+        jLabelCoefficient18.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient18.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient18.setText("70");
+
+        jLabelCoefficient19.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient19.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient19.setText("60");
+
+        jLabelCoefficient20.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient20.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient20.setText("50");
+
+        jLabelCoefficient21.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient21.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient21.setText("40");
+
+        jLabelCoefficient22.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient22.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient22.setText("30");
+
+        jLabelCoefficient23.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient23.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient23.setText("25");
+
+        jLabelCoefficient24.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient24.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient24.setText("20");
+
+        jLabelCoefficient25.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient25.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient25.setText("15");
+
+        jLabelCoefficient26.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient26.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient26.setText("10");
+
+        jLabelCoefficient27.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient27.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient27.setText("9");
+
+        jLabelCoefficient28.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient28.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient28.setText("8");
+
+        jLabelCoefficient29.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient29.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient29.setText("7");
+
+        jLabelCoefficient30.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient30.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient30.setText("6");
+
+        jLabelCoefficient31.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient31.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient31.setText("5");
+
+        jLabelCoefficient32.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient32.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient32.setText("4");
+
+        jLabelCoefficient33.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
+        jLabelCoefficient33.setForeground(new java.awt.Color(255, 255, 255));
+        jLabelCoefficient33.setText("3");
+
+        jLabelCoefficient34.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
         jLabelCoefficient34.setForeground(new java.awt.Color(255, 255, 255));
         jLabelCoefficient34.setText("2");
 
-        jLabel35.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resursi/icons/circle.png"))); // NOI18N
-
-        jLabelCoefficient35.setFont(new java.awt.Font("Source Code Pro Black", 2, 12)); // NOI18N
+        jLabelCoefficient35.setFont(new java.awt.Font("Source Code Pro Black", 2, 14)); // NOI18N
         jLabelCoefficient35.setForeground(new java.awt.Color(255, 255, 255));
         jLabelCoefficient35.setText("1");
 
@@ -608,20 +608,20 @@ public class PlayingWindow extends javax.swing.JFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addGap(274, 274, 274)
-                .addComponent(jPanelFirstFiveBallsContainer, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-            .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(jPanelContainer, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addContainerGap())
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jPanelFirstFiveBallsContainer, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(218, 218, 218))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addContainerGap()
+                .addGap(7, 7, 7)
                 .addComponent(jPanelFirstFiveBallsContainer, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(13, 13, 13)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jPanelContainer, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addContainerGap())
         );
@@ -787,7 +787,7 @@ public class PlayingWindow extends javax.swing.JFrame {
         */
         
         
-        Timer timer = new Timer(1000, new ActionListener() {
+        Timer timer = new Timer(2200, new ActionListener() {
             private int i = 0;
 
             @Override
